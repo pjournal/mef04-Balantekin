@@ -3,5 +3,5 @@
 ### Week 1 Assignment
 [R Markdown](RMarkdown.html)
 
-### Week 1 Assignment
+### Bonus Assignment
 [Istanbul Property Prices](IstanbulProperty.html)
