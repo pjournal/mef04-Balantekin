@@ -5,3 +5,6 @@
 
 ### Bonus Assignment
 [Istanbul Property Prices](IstanbulProperty.html)
+
+### Week 3 Assignment
+[Electricity Prices](Electricity.html)
