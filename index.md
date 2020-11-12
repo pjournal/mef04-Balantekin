@@ -8,3 +8,4 @@
 
 ### Week 3 Assignment
 [Electricity Prices](Electricity.html)
+
