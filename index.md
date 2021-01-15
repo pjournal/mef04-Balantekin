@@ -9,3 +9,6 @@
 ### Week 3 Assignment
 [Electricity Prices](Electricity.html)
 
+### Group Project
+[Group Progress Journal](https://pjournal.github.io/mef04g-bak-r-iz/)
+
