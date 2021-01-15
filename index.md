@@ -12,3 +12,5 @@
 ### Group Project
 [Group Progress Journal](https://pjournal.github.io/mef04g-bak-r-iz/)
 
+### Personal Shiny Project
+[Trade Direction](https://bugrabalantekin.shinyapps.io/Turkey-TradeDirection/)
